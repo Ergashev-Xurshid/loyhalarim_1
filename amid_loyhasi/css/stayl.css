@@ -1,0 +1,174 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.head {
+  margin: 57px 187px;
+  display: flex;
+  align-items: baseline;  
+}
+.item  {
+  display: inline;
+}
+.item a {
+  text-decoration: none;
+  color:#464646;
+  padding: 5px 20px;
+}
+.button {
+  text-decoration: none;
+  margin: 10px;
+  padding: 18px 40px;
+  border: 1px solid #124F48;
+  border-radius: 32px;
+  background-color: #124F48;
+  color: white;
+}
+.main_1 {
+ background-color: #E9FBF9;
+ border-radius: 30px;
+ margin: 60px;
+ display: flex;
+ justify-content: space-between;
+ height: 300
+ px;
+}
+.main_1_div_1 {
+  width: 600px;
+  padding: 60px;
+}
+.main_1_div_2 {
+  width: 300px;
+} 
+.link{
+  display:inline;
+  text-decoration: none;
+  color: #FF6107;
+  padding: 10px;
+  background-color: white;
+  border-radius: 5px;
+}
+.one {
+  background-color: #E9FBF9;
+  text-decoration: none;
+  color: #FF6107;
+}
+.button_orenge {
+  text-decoration: none;
+  border-radius: 32px;
+  border: 1px solid #FF823B;
+  background-color: #FF823B;
+  padding: 18px 35px ;
+  color: white;
+}
+
+
+
+.main_1_content_1{
+   display: flex;
+   justify-content: space-evenly;
+}
+.main_1_content_2{
+  display: flex;
+  justify-content: space-evenly;
+}
+.rek {
+  width: 255px;
+  height: 100px;
+  background-color: #E9FBF9;
+  margin: 5px;
+  border-radius: 10px;
+  padding: 15px;
+  
+}
+
+
+.main_2 {
+  display: flex;
+  align-items:center;
+  justify-content: space-between;
+  
+}
+.main_2_div_1 {
+padding: 70px;
+width: 300px;
+
+}
+.main_2_div_2 {
+  width: 400px;  
+}
+
+.main_2_content  {
+  display: flex;
+  justify-content:space-evenly;
+}
+.con {
+  width: 33.3%;
+  padding: 20px;
+}
+.more {
+  text-decoration: none;
+  color: #124F48;
+}
+
+
+.main_3 {
+  display: flex;
+  justify-content: space-evenly;
+
+}
+.main_3_content_1{
+  width: 400px;
+}
+.two {
+  display: block;
+}
+
+.raqam {
+  color: #124F48;
+  font-size: 36px;
+}
+.from {
+  color: #FF823B;
+}
+
+
+.main_4_div {
+  text-align: center;
+}
+
+.rasm-2 {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.rasm-2-1 {
+  width: 310px;
+}
+
+.rasm-2-2 {
+  width: 310px;
+}
+
+.footer {
+  text-align: center;
+}
+
+.big-f {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.big-footer{
+  background-color: #E9FBF9;
+}
+.q-food {
+  display: flex;
+  align-items: flex-end;
+  background-color: #124F48;
+  justify-content: space-between;
+}
+
